@@ -1,4 +1,4 @@
-name: Update Stats
+name: Update Stats in README
 
 on:
   # Schedule daily update at midnight UTC
