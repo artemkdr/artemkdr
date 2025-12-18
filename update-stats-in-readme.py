@@ -86,8 +86,8 @@ def update_readme(stats):
     with open("README.md", "r") as f:
         content = f.read()
 
-    start_marker = "`"
-    end_marker = "`"
+    start_marker = "<!---->"
+    end_marker = "<!---->"
     
     # Power Day Emoji Logic
     day_emojis = {
