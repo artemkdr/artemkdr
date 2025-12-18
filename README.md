@@ -14,7 +14,7 @@ Currently working at [Bcars SA](https://github.com/orgs/BCars-SA/) as Head of We
 <!---->
 
 
-Links:
-[LinkedIn](https://www.linkedin.com/in/artem-kudryavtsev-8937144/)\
-[Photography](https://photo.artem.work)\
-[Instagram Pano Cutter](https://pano.artem.work)
+### Links
+  - [LinkedIn](https://www.linkedin.com/in/artem-kudryavtsev-8937144/)
+  - [Photography](https://photo.artem.work)
+  - [Instagram Pano Cutter](https://pano.artem.work)
