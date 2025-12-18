@@ -27,7 +27,7 @@ jobs:
 
       - name: Run Update Script
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.REPO_ACCESS_TOKEN }}
         run: python update-stats-in-readme.py
 
       - name: Commit and Push
