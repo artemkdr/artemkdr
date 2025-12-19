@@ -22,6 +22,7 @@ Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/artem-kudryav
 - 🤝 Reviewed **60** Pull Requests
 <!--STATS_END-->
 
+### 📷 Random Photo of the Day
 <!--PHOTO_START-->
 ![Random Photo](https://lh3.googleusercontent.com/pw/AP1GczNmLU0aHtU-XaCNcPzcnlMkijhoghYS_ZIj8D-vpvJsbXtGCOs_zS1XCyQqGlAoHo5ePXucxk1wIs4RCOVzYI03DA9B0NuCpG6vIXpnKlSbKp5j5cQbJshWrb-OaGsCbuIN3VwE1aKnJ_rfXP1pGa2ueA=w500-h500)
 <!--PHOTO_END-->
