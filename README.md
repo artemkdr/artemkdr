@@ -24,7 +24,7 @@ Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/artem-kudryav
 
 ### 📷 Random Photo of the Day
 <!--PHOTO_START-->
-![Random Photo](https://lh3.googleusercontent.com/pw/AP1GczM6LgRWx5s0_0TB4QyQKbceBUjHQdQeXx3yVZwhQ5X1y56T_GfG8ApqFPWUThgQW3rr5H-8s_WDsp4tLW0WLZekN_n_QHLU0tntnnGnM7wI1FA88qgY=w500-h500?authuser=0)
+![Random Photo](https://lh3.googleusercontent.com/pw/AP1GczPOQtygYXkDneNeOpvsv7X4QigN8WO8yqF1f7hO6s_zftSQW9pfay9uAOGgqs0HyG8HDRVCbQWA344qWFU3c1tBFXKWp-X7nPd1Isu10DmJZObeu3Ln=w500-h500?authuser=0)
 <!--PHOTO_END-->
 
 
