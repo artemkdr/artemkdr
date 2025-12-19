@@ -28,6 +28,7 @@ jobs:
       - name: Run Update Script
         env:
           GITHUB_TOKEN: ${{ secrets.REPO_ACCESS_TOKEN }}
+          GOOGLE_PHOTO_ALBUM_LINK: ${{ secrets.GOOGLE_PHOTO_ALBUM_LINK }}
         run: python update-stats-in-readme.py
 
       - name: Commit and Push

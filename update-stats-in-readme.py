@@ -12,6 +12,7 @@ load_dotenv()
 # Configuration
 GITHUB_TOKEN = os.environ["GITHUB_TOKEN"]
 USERNAME = os.environ["GITHUB_REPOSITORY"].split("/")[0]
+GOOGLE_PHOTO_ALBUM_LINK = os.environ["GOOGLE_PHOTO_ALBUM_LINK"]
 API_URL = "https://api.github.com/graphql"
 
 # Date Calculations
@@ -219,7 +220,7 @@ def main():
     print(f"Calculated Stats: {stats}")
     
     # Pick a random photo from a shared album (example URL)
-    photo_link = get_random_photo_from_shared_album("https://photos.google.com/share/AF1QipOP-sOjKxg6NIQvtK893Lt6XgnHdowP0oa1ZsvYvQaPac0iio0DcsU4en09JXt3ZA?key=RGI0VWVwemZ4WkRCanJkbk1JYmxmVzN2Wm1SVzhR")
+    photo_link = get_random_photo_from_shared_album(GOOGLE_PHOTO_ALBUM_LINK)
     if photo_link:
         print(f"Random Photo URL: {photo_link}")
     else:
