@@ -21,3 +21,5 @@ Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/artem-kudryav
 - 🔒 Closed **99** Issues
 - 🤝 Reviewed **60** Pull Requests
 <!--END-->
+
+![heart](https://raw.githubusercontent.com/artemkdr/artemkdr/main/assets/contribution-grid-heart.png)

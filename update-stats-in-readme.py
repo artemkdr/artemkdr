@@ -151,7 +151,7 @@ def main():
     project_count = len(repo_contributions)
     power_day = get_most_active_day(weeks)
     top_languages = get_top_languages(repo_contributions)
-    last_updated = now.strftime("%d.%m.%Y, %H:%M")
+    last_updated = now.strftime("%d.%m.%Y")
     
     # Bundle stats
     stats = {
