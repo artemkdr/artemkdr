@@ -28,4 +28,5 @@ Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/artem-kudryav
 <!--PHOTO_END-->
 
 
-![heart](https://raw.githubusercontent.com/artemkdr/artemkdr/refs/heads/main/assets/contribution-grid-heart.png)
+### ❤️ Support me by starring some of my repositories
+<img src="https://raw.githubusercontent.com/artemkdr/artemkdr/refs/heads/main/assets/contribution-grid-heart.png" width="500"/>
