@@ -1,5 +1,7 @@
 import os
 import requests
+import re
+import random
 from datetime import datetime, timedelta, timezone
 from collections import Counter
 from dotenv import load_dotenv
@@ -102,12 +104,15 @@ def get_top_languages(repos):
     top_10 = sorted(lang_info.items(), key=lambda kv: kv[1]["size"], reverse=True)[:10]
     return ", ".join([f"![]({f'https://placehold.co/10x10/{data['color'][1:]}/{data['color'][1:]}.png'}) {name}" for name, data in top_10])
 
-def update_readme(stats):
+def update_readme(stats, photo_link):
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
 
-    start_marker = "<!--START-->"
-    end_marker = "<!--END-->"
+    stats_start_marker = "<!--STATS_START-->"
+    stats_end_marker = "<!--STATS_END-->"
+
+    photo_start_marker = "<!--PHOTO_START-->"
+    photo_end_marker = "<!--PHOTO_END-->"
     
     # Power Day Emoji Logic
     day_emojis = {
@@ -117,7 +122,7 @@ def update_readme(stats):
     day_emoji = day_emojis.get(stats['power_day'], "📅")
 
     # Generate the Markdown
-    new_stats = f"{start_marker}\n"
+    new_stats = f"{stats_start_marker}\n"
     new_stats += f"### 📊 My GitHub stats for the year as of {stats['last_updated']}\n"
     new_stats += f"- 🔭 **{stats['commits']}** commits\n"
     new_stats += f"- 🛠️ Worked on **{stats['projects']}** projects\n"
@@ -125,16 +130,63 @@ def update_readme(stats):
     new_stats += f"- 🧠 Top 10 Languages: {stats['top_languages']}\n"
     new_stats += f"- 🔒 Closed **{stats['closed_issues']}** Issues\n"
     new_stats += f"- 🤝 Reviewed **{stats['reviews']}** Pull Requests\n"
-    new_stats += f"{end_marker}"
+    new_stats += f"{stats_end_marker}"
 
-    if start_marker in content and end_marker in content:
-        pre = content.split(start_marker)[0]
-        post = content.split(end_marker)[1]
+    # Update Photo Section
+    new_photo_section = f"{photo_start_marker}\n"
+    if photo_link:
+        new_photo_section += f"![Random Photo]({photo_link})\n"
+    new_photo_section += f"{photo_end_marker}"
+
+    if stats_start_marker in content and stats_end_marker in content:
+        stats_pre = content.split(stats_start_marker)[0]
+        stats_post = content.split(stats_end_marker)[1]
+
+        photo_pre = stats_post.split(photo_start_marker)[0]
+        photo_post = stats_post.split(photo_end_marker)[1]
+
         with open("README.md", "w", encoding="utf-8") as f:
-            f.write(pre + new_stats + post)
+            f.write(stats_pre + new_stats + photo_pre + new_photo_section + photo_post)
         print("README updated successfully.")
     else:
         print("Markers not found in README.md")
+
+def get_random_photo_from_shared_album(album_url):
+    # 1. Handle short URLs (e.g., photos.app.goo.gl)
+    response = requests.get(album_url, allow_redirects=True)
+    if response.status_code != 200:
+        print("Failed to access the album. It may be private or the URL is incorrect.")
+        return None
+
+    
+    # 2. Scrape the page for image URLs
+    # Google Photos embeds the photo data in a javascript array script
+    # We look for the pattern that generally holds the media items
+    # Note: This regex is looking for the specific JSON structure Google uses
+    
+    # This regex looks for image base URLs which always start with lh3.googleusercontent.com
+    # and follow a specific pattern in the source code.
+    # The ["] matches the quote before the URL
+    url_pattern = r'"(https:\/\/lh3\.googleusercontent\.com\/pw\/[a-zA-Z0-9_-]+)"'
+    
+    # Find all matches in the page content
+    all_urls = re.findall(url_pattern, response.text)
+    
+    # Deduplicate URLs
+    unique_urls = list(set(all_urls))
+    
+    if not unique_urls:
+        print("No photos found or album is private/empty.")
+        return None
+
+    # 3. Pick a random photo
+    random_photo_url = random.choice(unique_urls)
+    
+    # 4. Clean the URL (The raw URL is often low res or has params)
+    # Appending '=w800&h=800' forces a low-res version
+    low_res_url = f"{random_photo_url}=w500-h500?authuser=0"
+    
+    return low_res_url
 
 def main():
     data = run_query()
@@ -165,7 +217,17 @@ def main():
     }
     
     print(f"Calculated Stats: {stats}")
-    update_readme(stats)
+    
+    # Pick a random photo from a shared album (example URL)
+    photo_link = get_random_photo_from_shared_album("https://photos.google.com/share/AF1QipOP-sOjKxg6NIQvtK893Lt6XgnHdowP0oa1ZsvYvQaPac0iio0DcsU4en09JXt3ZA?key=RGI0VWVwemZ4WkRCanJkbk1JYmxmVzN2Wm1SVzhR")
+    if photo_link:
+        print(f"Random Photo URL: {photo_link}")
+    else:
+        print("No photo could be retrieved.")
+    
+    # Update README
+    update_readme(stats, photo_link)
+
 
 if __name__ == "__main__":
     main()
