@@ -118,6 +118,7 @@ def update_readme(stats):
 
     # Generate the Markdown
     new_stats = f"{start_marker}\n"
+    new_stats += f"### 📊 My GitHub stats for the year as of {stats['last_updated']}\n"
     new_stats += f"- 🔭 **{stats['commits']}** commits\n"
     new_stats += f"- 🛠️ Worked on **{stats['projects']}** projects\n"
     new_stats += f"- {day_emoji} Power Day: **{stats['power_day']}s**\n"
@@ -150,6 +151,7 @@ def main():
     project_count = len(repo_contributions)
     power_day = get_most_active_day(weeks)
     top_languages = get_top_languages(repo_contributions)
+    last_updated = now.strftime("%d.%m.%Y, %H:%M")
     
     # Bundle stats
     stats = {
@@ -158,7 +160,8 @@ def main():
         "power_day": power_day,
         "top_languages": top_languages,
         "reviews": reviews,
-        "closed_issues": closed_issues
+        "closed_issues": closed_issues,
+        "last_updated": last_updated
     }
     
     print(f"Calculated Stats: {stats}")
