@@ -100,7 +100,7 @@ def get_top_languages(repos):
                 lang_info[name]["color"] = color
 
     top_10 = sorted(lang_info.items(), key=lambda kv: kv[1]["size"], reverse=True)[:10]
-    return ", ".join([f"<span style=\"color:{data['color']}\">●</span> {name}" for name, data in top_10])
+    return ", ".join([f"![]({f'https://placehold.co/10x10/{data['color'][1:]}/{data['color'][1:]}.png'}) {name}" for name, data in top_10])
 
 def update_readme(stats):
     with open("README.md", "r", encoding="utf-8") as f:
@@ -121,7 +121,7 @@ def update_readme(stats):
     new_stats += f"- 🔭 **{stats['commits']}** commits\n"
     new_stats += f"- 🛠️ Worked on **{stats['projects']}** projects\n"
     new_stats += f"- {day_emoji} Power Day: **{stats['power_day']}s**\n"
-    new_stats += f"- 🧠 Top 10 Languages: **{stats['top_languages']}**\n"
+    new_stats += f"- 🧠 Top 10 Languages: {stats['top_languages']}\n"
     new_stats += f"- 🔒 Closed **{stats['closed_issues']}** Issues\n"
     new_stats += f"- 🤝 Reviewed **{stats['reviews']}** Pull Requests\n"
     new_stats += f"{end_marker}"
