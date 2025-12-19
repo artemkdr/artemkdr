@@ -23,7 +23,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install Dependencies
-        run: pip install requests
+        run: pip install .
 
       - name: Run Update Script
         env:

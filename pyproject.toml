@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "artemkdr"
+version = "0.1.0"
+description = "A script to update GitHub stats in README.md"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [
+    { name = "Artem Kudryavtsev" }
+]
+dependencies = [
+    "requests>=2.32.5",
+    "python-dotenv>=1.2.1",
+]
+
+[tool.setuptools]
+py-modules = ["update-stats-in-readme"]
