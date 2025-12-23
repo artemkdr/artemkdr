@@ -7,6 +7,7 @@ Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/artem-kudryav
 
 ### Links
 - [LinkedIn: Artem Kudryavtsev](https://www.linkedin.com/in/artem-kudryavtsev-8937144/)
+- [NPM](https://www.npmjs.com/~artemkdr)
 - [Instagram: @artemkdr](https://www.instagram.com/artem.kdr/)
 - [Photo Portfolio](https://photo.artem.work)
 - [Create your custom message in GitHub contributions style](https://github.artem.work)
