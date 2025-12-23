@@ -6,13 +6,12 @@ Currently working at [Bcars SA](https://github.com/orgs/BCars-SA/) as Head of We
 Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/artem-kudryavtsev-8937144/) or by **artem.kdr[at]gmail.com**.
 
 ### Links
-- <img src="assets/linkedin.svg" alt="LinkedIn" width="18" height="18" style="vertical-align:middle;margin-right:6px;"> [LinkedIn: Artem Kudryavtsev](https://www.linkedin.com/in/artem-kudryavtsev-8937144/)
-- <img src="https://cdn.simpleicons.org/npm" alt="NPM" width="18" height="18" style="vertical-align:middle;margin-right:6px;"> [NPM: artemkdr](https://www.npmjs.com/~artemkdr)
-- <img src="assets/artemkdr.ico" alt="Artem's Photo Portfolio" width="18" height="18" style="vertical-align:middle;margin-right:6px;"> [Photo Portfolio](https://photo.artem.work)
-- <img src="assets/github-heart.svg" alt="Contributions" width="18" height="18" style="vertical-align:middle;margin-right:6px;"> [Create your custom message in GitHub contributions style](https://github.artem.work)
-- <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="18" height="18" style="vertical-align:middle;margin-right:6px;"> [Instagram: @artemkdr](https://www.instagram.com/artem.kdr/)
-- <img src="https://cdn.simpleicons.org/spotify" alt="Spotify" width="18" height="18" style="vertical-align:middle;margin-right:6px;"> [My music on Spotify](https://open.spotify.com/artist/6kweygERI9XFdBz0BLrllG)
-
+- <img src="assets/linkedin.svg" alt="LinkedIn" width="14" height="14">&nbsp;&nbsp;[LinkedIn: Artem Kudryavtsev](https://www.linkedin.com/in/artem-kudryavtsev-8937144/)
+- <img src="https://cdn.simpleicons.org/npm" alt="NPM" width="14" height="14">&nbsp;&nbsp;[NPM: artemkdr](https://www.npmjs.com/~artemkdr)
+- <img src="assets/artemkdr.ico" alt="Artem's Photo Portfolio" width="14" height="14">&nbsp;&nbsp;[Photo Portfolio](https://photo.artem.work)
+- <img src="assets/github-heart.svg" alt="Contributions" width="14" height="14">&nbsp;&nbsp;[Create your custom message in GitHub contributions style](https://github.artem.work)
+- <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="14" height="14">&nbsp;&nbsp;[Instagram: @artemkdr](https://www.instagram.com/artem.kdr/)
+- <img src="https://cdn.simpleicons.org/spotify" alt="Spotify" width="14" height="14">&nbsp;&nbsp;[My music on Spotify](https://open.spotify.com/artist/6kweygERI9XFdBz0BLrllG)
 <!--STATS_START-->
 ### 📊 My GitHub stats for the year as of 22.12.2025
 - 🔭 **2226** commits
