@@ -13,18 +13,18 @@ Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/artem-kudryav
 - <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="14" height="14">&nbsp;&nbsp;[Instagram: @artemkdr](https://www.instagram.com/artem.kdr/)
 - <img src="https://cdn.simpleicons.org/spotify" alt="Spotify" width="14" height="14">&nbsp;&nbsp;[My music on Spotify](https://open.spotify.com/artist/6kweygERI9XFdBz0BLrllG)
 <!--STATS_START-->
-### 📊 My GitHub stats for the year as of 31.03.2026
-- 🔭 **2632** commits
+### 📊 My GitHub stats for the year as of 01.04.2026
+- 🔭 **2646** commits
 - 🛠️ Worked on **25** projects
 - 🐪 Power Day: **Wednesdays**
-- 🧠 Top 10 Languages: ![](https://placehold.co/10x10/178600/178600.png) C#, ![](https://placehold.co/10x10/e34c26/e34c26.png) HTML, ![](https://placehold.co/10x10/f1e05a/f1e05a.png) JavaScript, ![](https://placehold.co/10x10/3178c6/3178c6.png) TypeScript, ![](https://placehold.co/10x10/663399/663399.png) CSS, ![](https://placehold.co/10x10/e38c00/e38c00.png) TSQL, ![](https://placehold.co/10x10/C1F12E/C1F12E.png) Batchfile, ![](https://placehold.co/10x10/384d54/384d54.png) Dockerfile, ![](https://placehold.co/10x10/89e051/89e051.png) Shell, ![](https://placehold.co/10x10/4298b8/4298b8.png) Groovy
+- 🧠 Top 10 Languages: ![](https://placehold.co/10x10/178600/178600.png) C#, ![](https://placehold.co/10x10/e34c26/e34c26.png) HTML, ![](https://placehold.co/10x10/f1e05a/f1e05a.png) JavaScript, ![](https://placehold.co/10x10/3178c6/3178c6.png) TypeScript, ![](https://placehold.co/10x10/663399/663399.png) CSS, ![](https://placehold.co/10x10/844FBA/844FBA.png) HCL, ![](https://placehold.co/10x10/e38c00/e38c00.png) TSQL, ![](https://placehold.co/10x10/C1F12E/C1F12E.png) Batchfile, ![](https://placehold.co/10x10/384d54/384d54.png) Dockerfile, ![](https://placehold.co/10x10/89e051/89e051.png) Shell
 - 🔒 Closed **119** Issues
 - 🤝 Reviewed **79** Pull Requests
 <!--STATS_END-->
 
 ### 📷 Random Photo of the Day
 <!--PHOTO_START-->
-![Random Photo](https://lh3.googleusercontent.com/pw/AP1GczOBUFDefW2_MFux03pQrTPCN6qDLOE63iB4Vllv3mNZdhrsOc-VqLFY7VXVPijnhqxi7Zocybd9JrVvKFT7M6nseygqW7ZGxK6XxHjgUHUJIz68DZbL=w500-h500?authuser=0)
+![Random Photo](https://lh3.googleusercontent.com/pw/AP1GczMo5RjX3FLu54XT44gPpX5kx1cyZgeznm3I8c3O1XP_V_UKksA1ZESUDYmdHoTPSc3jkpltOvuVpxzkUVmJH2KL8thBcr_BSTt0XhQL_TcQJZp0HtTC=w500-h500?authuser=0)
 <!--PHOTO_END-->
 
 
