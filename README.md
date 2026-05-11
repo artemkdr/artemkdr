@@ -17,14 +17,14 @@ Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/artem-kudryav
 - 🔭 **2226** commits
 - 🛠️ Worked on **25** projects
 - 🐪 Power Day: **Wednesdays**
-- 🧠 Top 10 Languages: ![](https://placehold.co/10x10/178600/178600.png) C#, ![](https://placehold.co/10x10/e34c26/e34c26.png) HTML, ![](https://placehold.co/10x10/f1e05a/f1e05a.png) JavaScript, ![](https://placehold.co/10x10/3178c6/3178c6.png) TypeScript, ![](https://placehold.co/10x10/663399/663399.png) CSS, ![](https://placehold.co/10x10/e38c00/e38c00.png) TSQL, ![](https://placehold.co/10x10/C1F12E/C1F12E.png) Batchfile, ![](https://placehold.co/10x10/384d54/384d54.png) Dockerfile, ![](https://placehold.co/10x10/4298b8/4298b8.png) Groovy, ![](https://placehold.co/10x10/89e051/89e051.png) Shell
-- 🔒 Closed **100** Issues
-- 🤝 Reviewed **60** Pull Requests
+- 🧠 Top 10 Languages: ![](https://placehold.co/10x10/178600/178600.png) C#, ![](https://placehold.co/10x10/e34c26/e34c26.png) HTML, ![](https://placehold.co/10x10/f1e05a/f1e05a.png) JavaScript, ![](https://placehold.co/10x10/3178c6/3178c6.png) TypeScript, ![](https://placehold.co/10x10/663399/663399.png) CSS, ![](https://placehold.co/10x10/C1F12E/C1F12E.png) Batchfile, ![](https://placehold.co/10x10/e38c00/e38c00.png) TSQL, ![](https://placehold.co/10x10/384d54/384d54.png) Dockerfile, ![](https://placehold.co/10x10/89e051/89e051.png) Shell, ![](https://placehold.co/10x10/4298b8/4298b8.png) Groovy
+- 🔒 Closed **126** Issues
+- 🤝 Reviewed **81** Pull Requests
 <!--STATS_END-->
 
 ### 📷 Random Photo of the Day
 <!--PHOTO_START-->
-![Random Photo](https://lh3.googleusercontent.com/pw/AP1GczO0CseGRw5WbJh5rEanA6_66Kq-FrKEGMgUIxZMZBtlGcPmd_xSXWpJQARLo7ya0tduGRRCpTU1RD3_quRI0Bux6qnmJ4XVNgUKWV1kZwIetmvIwiGe=w500-h500?authuser=0)
+![Random Photo](https://lh3.googleusercontent.com/pw/AP1GczPxw-hGI4aMBhF0-xxhiIbqLI1e81J1WEIQhBjQGsbnyvmC_LFKOnqf8wtBlQ82dmP3Gkgze5ZJ5HpHChbPJjDPXAbwqjCmUt500wH7yP402fUjtJP3=w500-h500?authuser=0)
 <!--PHOTO_END-->
 
 
