@@ -124,7 +124,7 @@ def update_readme(stats, photo_link):
 
     # Generate the Markdown
     new_stats = f"{stats_start_marker}\n"
-    new_stats += f"### 📊 My GitHub stats for the year as of {stats['last_updated']}\n"
+    new_stats += f"### 📊 My GitHub stats for the 365 days as of {stats['last_updated']}\n"
     new_stats += f"- 🔭 **{stats['commits']}** commits\n"
     new_stats += f"- 🛠️ Worked on **{stats['projects']}** projects\n"
     new_stats += f"- {day_emoji} Power Day: **{stats['power_day']}s**\n"
