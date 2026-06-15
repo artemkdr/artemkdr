@@ -13,8 +13,8 @@ Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/artem-kudryav
 - <img src="assets/instagram.svg" alt="Instagram" width="14" height="14">&nbsp;&nbsp;[Instagram: @artemkdr](https://www.instagram.com/artem.kdr/)
 - <img src="assets/spotify.svg" alt="Spotify" width="14" height="14">&nbsp;&nbsp;[My music on Spotify](https://open.spotify.com/artist/6kweygERI9XFdBz0BLrllG)
 <!--STATS_START-->
-### 📊 My GitHub stats for the 365 days as of 14.06.2026
-- 🔭 **2769** commits
+### 📊 My GitHub stats for the 365 days as of 15.06.2026
+- 🔭 **2766** commits
 - 🛠️ Worked on **25** projects
 - 🐪 Power Day: **Wednesdays**
 - 🧠 Top 10 Languages: ![](https://placehold.co/10x10/178600/178600.png) C#, ![](https://placehold.co/10x10/e34c26/e34c26.png) HTML, ![](https://placehold.co/10x10/f1e05a/f1e05a.png) JavaScript, ![](https://placehold.co/10x10/3178c6/3178c6.png) TypeScript, ![](https://placehold.co/10x10/663399/663399.png) CSS, ![](https://placehold.co/10x10/C1F12E/C1F12E.png) Batchfile, ![](https://placehold.co/10x10/e38c00/e38c00.png) TSQL, ![](https://placehold.co/10x10/384d54/384d54.png) Dockerfile, ![](https://placehold.co/10x10/89e051/89e051.png) Shell, ![](https://placehold.co/10x10/4298b8/4298b8.png) Groovy
@@ -24,7 +24,7 @@ Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/artem-kudryav
 
 ### 📷 Random Photo of the Day
 <!--PHOTO_START-->
-![Random Photo](https://lh3.googleusercontent.com/pw/AP1GczPWhvQOCV8mzO7MToOEtVAYKZPGiMPrXHmEenUeo_BdmGuqua3LZSICBOVdrhBowR4nyyzRg0PqFp6Bj68-e3PmvCXy69TgribbA2kvFHdVfkvNfD1K=w500-h500?authuser=0)
+![Random Photo](https://lh3.googleusercontent.com/pw/AP1GczNiYgrjYCJ9cXWb5EqPpWWykZtJaR87sR4EzX5tWUF-11fD4wgxx8250LHa5Oo2g84721hiVolyO3AKDROgh5mNSJ6OrjWDHKuz9cQsl8aF75rmDnUV=w500-h500?authuser=0)
 <!--PHOTO_END-->
 
 
