@@ -13,18 +13,18 @@ Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/artem-kudryav
 - <img src="assets/instagram.svg" alt="Instagram" width="14" height="14">&nbsp;&nbsp;[Instagram: @artemkdr](https://www.instagram.com/artem.kdr/)
 - <img src="assets/spotify.svg" alt="Spotify" width="14" height="14">&nbsp;&nbsp;[My music on Spotify](https://open.spotify.com/artist/6kweygERI9XFdBz0BLrllG)
 <!--STATS_START-->
-### 📊 My GitHub stats for the 365 days as of 17.09.2026
-- 🔭 **2442** commits
+### 📊 My GitHub stats for the 365 days as of 18.09.2026
+- 🔭 **2429** commits
 - 🛠️ Worked on **25** projects
 - 🚀 Power Day: **Tuesdays**
 - 🧠 Top 10 Languages: ![](https://placehold.co/10x10/7355dd/7355dd.png) C#, ![](https://placehold.co/10x10/e34c26/e34c26.png) HTML, ![](https://placehold.co/10x10/f1e05a/f1e05a.png) JavaScript, ![](https://placehold.co/10x10/3178c6/3178c6.png) TypeScript, ![](https://placehold.co/10x10/663399/663399.png) CSS, ![](https://placehold.co/10x10/89e051/89e051.png) Shell, ![](https://placehold.co/10x10/C1F12E/C1F12E.png) Batchfile, ![](https://placehold.co/10x10/e38c00/e38c00.png) TSQL, ![](https://placehold.co/10x10/012456/012456.png) PowerShell, ![](https://placehold.co/10x10/384d54/384d54.png) Dockerfile
 - 🔒 Closed **145** Issues
-- 🤝 Reviewed **81** Pull Requests
+- 🤝 Reviewed **79** Pull Requests
 <!--STATS_END-->
 
 ### 📷 Random Photo of the Day
 <!--PHOTO_START-->
-![Random Photo](https://lh3.googleusercontent.com/pw/AP1GczNI_k97svExL2DVWj8AgBIktrv0uN9nCEZS3f2NCQpub-CXNc3KWXbx5YIMyuoo7_xVVFBKLIMwL2eE9RjTeEFo8vDm2W4qw3RPPgba1UrLYVYJV8uZ=w500-h500?authuser=0)
+![Random Photo](https://lh3.googleusercontent.com/pw/AP1GczPNd-10hd7R47dRdUSexrdrM3kOrdSgwM-7Ql4HlzvetZ59RAehEChrGIEYXBO8KSt50WSHpy90CRWOr88uQXFkkreOx0xnsNS6jfaI-O9OmK0OO_Cg=w500-h500?authuser=0)
 <!--PHOTO_END-->
 
 
