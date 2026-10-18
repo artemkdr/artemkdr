@@ -13,7 +13,7 @@ Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/artem-kudryav
 - <img src="assets/instagram.svg" alt="Instagram" width="14" height="14">&nbsp;&nbsp;[Instagram: @artemkdr](https://www.instagram.com/artem.kdr/)
 - <img src="assets/spotify.svg" alt="Spotify" width="14" height="14">&nbsp;&nbsp;[My music on Spotify](https://open.spotify.com/artist/6kweygERI9XFdBz0BLrllG)
 <!--STATS_START-->
-### 📊 My GitHub stats for the 365 days as of 17.10.2026
+### 📊 My GitHub stats for the 365 days as of 18.10.2026
 - 🔭 **2236** commits
 - 🛠️ Worked on **25** projects
 - 🚀 Power Day: **Tuesdays**
@@ -24,7 +24,7 @@ Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/artem-kudryav
 
 ### 📷 Random Photo of the Day
 <!--PHOTO_START-->
-![Random Photo](https://lh3.googleusercontent.com/pw/AP1GczMVyUpOb533wffNdrE5eBfAA5D8la7qqNJNWU32bEJckxTY2Zg-Mb9489KHm5JAFRTH3MMadSnVmzyu_SrcQalarmlwAAkINbSJS_gl_O297Rx3sVgN=w500-h500?authuser=0)
+![Random Photo](https://lh3.googleusercontent.com/pw/AP1GczObTQx3BDvsQ82G0R5Hiz-BsUclAhpebIrnUtf5uOX3TvwS-8D_IXoJjirjtlAEwKJ1O68DulUMDUGiXZbR7i1AOrIQimD61aEGC6yOaN9GzPWAEuQh=w500-h500?authuser=0)
 <!--PHOTO_END-->
 
 
