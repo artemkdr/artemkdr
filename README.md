@@ -1,8 +1,8 @@
 ## Welcome to my GitHub profile 👋
 
 My name is **Artem Kudryavtsev**.\
-I'm a professional software engineer.\
-Currently working at [Bcars SA](https://github.com/orgs/BCars-SA/) as Head of Web Development.
+I'm a software engineer.\
+Currently working at adesso Schweiz AG as Senior Software Engineer.
 Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/artem-kudryavtsev-8937144/) or by **artem.kdr[at]gmail.com**.
 
 ### Links
